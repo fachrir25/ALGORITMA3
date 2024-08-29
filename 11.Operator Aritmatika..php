@@ -33,4 +33,5 @@ $c = $a ** $b;
 echo "$a ** $b = $c";
 echo "<hr>";
 
+echo "<br><br><strong>By fachri</strong>";
 ?>
