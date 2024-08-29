@@ -1,9 +1,10 @@
 <?php
 
-$nama = "Budi";
+$nama = "Fachri";
 print_r($nama);
 print_r("<p>");
-$buah = array("apel", "pisang", "ceri");
-print_r($buah);
+$Mobil = array("Avanza", "Pajero", "Brio");
+print_r($Mobil);
+echo "<p><strong>By Fachri</strong>";
 
 
