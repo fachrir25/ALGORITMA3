@@ -20,4 +20,3 @@ if ($error) {
     ob_end_clean(); // bersihkan output buffer
     die("skrip dihentikan karena error.");
 }
-print_r("<i><p><strong>By ; fachri rizki");
