@@ -12,5 +12,4 @@ if($umur > 18){
 } else {
     echo "Maaf website ini hanya untuk yang sudah berumur 18+";
 }
-
 echo "<br><br><strong>By Fachri.</strong>";
