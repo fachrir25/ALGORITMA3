@@ -25,4 +25,22 @@ if ($nilai > 90) {
 echo "Nilai anda: $nilai<br>";
 echo "Grade: $grade";
 
-echo "<br><br><strong>By Fachri</strong>";
+<?php
+
+$suka = true;
+$suka ? echo "Dijuga suka kamu": echo "Baiklah!";
+
+?>
+
+<?php
+
+$suka = true;
+$suka ? echo "Dijuga suka kamu": echo "Baiklah!";
+
+?>
+echo "<br><br><strong>By Fachri.</strong>";
+
+
+
+
+
