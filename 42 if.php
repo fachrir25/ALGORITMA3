@@ -7,4 +7,4 @@ if ($umur < 18 ){
 } else {
     echo "Selamat datang di website kami!";
 }
-?>
+echo "<br><br><strong>By Fachri</strong>";
